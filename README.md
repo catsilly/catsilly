@@ -8,7 +8,7 @@
  <br>
  <br> 
   <br>
-![](https://watermelon.crd.co/assets/images/gallery01/697bf9b2_original.gif?v=172e6d61)  Cursando 1º Semestre em Ciencias da Computação ![](https://watermelon.crd.co/assets/images/gallery10/4da45bac_original.gif?v=172e6d61) <br> 
+![](https://watermelon.crd.co/assets/images/gallery01/697bf9b2_original.gif?v=172e6d61)  Cursando 2º Semestre em Ciencias da Computação ![](https://watermelon.crd.co/assets/images/gallery10/4da45bac_original.gif?v=172e6d61) <br> 
 ![](https://watermelon.crd.co/assets/images/gallery01/a284e424_original.gif?v=172e6d61) Univesidade Paulista (UNIP) <br>
 ![](https://watermelon.crd.co/assets/images/gallery01/f7e09364_original.gif?v=172e6d61) 18 Anos <br>
 
