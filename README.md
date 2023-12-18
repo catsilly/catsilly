@@ -1,14 +1,10 @@
 <br>
+
 <img align="right" widgth="298" height="280" alt="gif" src="https://media.tenor.com/BZKyV5_iZM4AAAAC/cat-anime.gif">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BBDF&random=false&width=435&lines=Hi%2C+I'm+Lana+%E2%9C%BF;Welcome+to+my+Github+!" alt="Typing SVG" /></a>
 
-![](https://watermelon.crd.co/assets/images/gallery02/cd994130.gif?v=172e6d61) Olá ! Sou a Lana 
-============================================================================================================================
+- :computer: Computer Science Student
+- :star: Focus on Front-end
+- :cherry_blossom: I love everything about Cats !
 
-  perfil com intuito de registrar meus estudos sobre programação
- <br>
- <br> 
-  <br>
-![](https://watermelon.crd.co/assets/images/gallery01/697bf9b2_original.gif?v=172e6d61)  Cursando 2º Semestre em Ciencias da Computação ![](https://watermelon.crd.co/assets/images/gallery10/4da45bac_original.gif?v=172e6d61) <br> 
-![](https://watermelon.crd.co/assets/images/gallery01/a284e424_original.gif?v=172e6d61) Univesidade Paulista (UNIP) <br>
-![](https://watermelon.crd.co/assets/images/gallery01/f7e09364_original.gif?v=172e6d61) 18 Anos <br>
 
