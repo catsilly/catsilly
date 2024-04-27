@@ -1,17 +1,27 @@
+
+<img width="1000" src="https://i.pinimg.com/originals/c3/3a/e3/c33ae35497a0880069f723e9f5107873.gif">
+
+<h1 align="center">Hello ⋆  im Lana  !</h1>
+<h3 align="center"> Learning Focus on Full Stack dev  ( can change )</h3>
 <br>
 
-<img align="right" widgth="298" height="280" alt="gif" src="https://media.tenor.com/BZKyV5_iZM4AAAAC/cat-anime.gif">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7BBDF&random=false&width=435&lines=Hi%2C+I'm+Lana+%E2%9C%BF;Welcome+to+my+Github+!" alt="Typing SVG" /></a>
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/c5xme9l.jpeg">
 
-- :computer: Computer Science Student
-- :star: Focus on Front-end
-- :cherry_blossom: I love everything about Cats !
+<h3 align="left"> About me :</h3>
 
+- 🏩 I’m currently working on [Grupo GPS](https://www.gpssa.com.br)
 
- ## 🗯️ I’m currently learning :
+- 💿 I’m currently learning **Java, C, SQL, React**
 
+- 🎀 Computer science ( **3/8** )
 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=flat&logo=adobe%20illustrator&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat&logo=mysql&logoColor=white)
-                    
+- 💭 Cats, coffee and books
 
+- 💌 How to reach me **ilanacaetano05@gmail.com**
 
+- 🌺 Languages **PT / ES / EN**
+
+<h3 align="left">Languange and Tools :</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,git,github)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,photoshop,illustrator,figma,vscode)](https://skillicons.dev) <br>
